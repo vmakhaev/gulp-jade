@@ -11,7 +11,7 @@
   "repository": "https://github.com/phated/gulp-jade.git",
   "author": "Blaine Bublitz <blaine@iceddev.com>",
   "dependencies": {
-    "derby-jade": "~0.5.0",
+    "derby-jade": "~0.6.0",
     "gulp-util": "~2.2",
     "through2": "~0.4"
   },
