@@ -1,8 +1,8 @@
 'use strict';
 
 var through = require('through2');
-var compile = require('jade').compile;
-var compileClient = require('jade').compileClient;
+var compile = require('derby-jade').compile;
+var compileClient = require('derby-jade').compileClient;
 var ext = require('gulp-util').replaceExtension;
 var PluginError = require('gulp-util').PluginError;
 
